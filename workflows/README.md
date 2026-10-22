@@ -1,9 +1,9 @@
 # Workflows
 
-Analysis pipeline and method-focused workflow artifacts.
+Archived analysis workflows and method-focused artifacts from course projects.
 
 ## Structure
-- `source/` — editable text/source notebook exports
+- `source/` — text/source notebook exports
 - `exported/` — rendered HTML exports
 
 ## Key files

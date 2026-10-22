@@ -1,7 +1,7 @@
 # Assignment Template
 
-Use this structure for new assignments:
+This template shows the archival folder structure used for assignment materials.
 
-- `instructions/` — prompt, rubric, or assignment brief
-- `work/` — analysis scripts/notebooks and notes
-- `outputs/` — generated deliverables and final exports
+- `instructions/` — assignment prompt, rubric, or brief
+- `work/` — scripts, notebooks, and working notes
+- `outputs/` — final deliverables and rendered exports

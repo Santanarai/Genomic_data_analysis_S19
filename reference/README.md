@@ -1,6 +1,6 @@
 # Reference
 
-Reference material for tools and external resources.
+Reference material for tools and external resources cited in this portfolio.
 
 ## Structure
 - `bioinformatics_tools.md` — tools used across analyses

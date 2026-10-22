@@ -1,6 +1,6 @@
 # External References
 
-Externally sourced reference pages and exports.
+Externally sourced pages and captures that support workflow/tool context in this archive.
 
 ## Structure
 - `source/` — text captures

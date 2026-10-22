@@ -1,18 +1,27 @@
-# Genomic Data Analysis (BIO 497, Spring 2019)
+# Genomic Data Analysis Portfolio (BIO 497, Spring 2019)
 
-This repository contains coursework materials and analysis artifacts from BIO 497 at Western Washington University.
+This repository is an archive of past genomic data analysis coursework from BIO 497 at Western Washington University. It is organized as a portfolio for potential employers and for learners who want examples of tools, workflows, and analysis outputs.
+
+## Start here
+
+If you are visiting for a quick overview, begin with:
+
+- [Assignments index](./assignments/README.md)
+- [Workflow index](./workflows/README.md)
+- [Bioinformatics tools reference](./reference/bioinformatics_tools.md)
 
 ## Repository layout
 
-- [`docs/`](./docs/) — course notes and supporting topic documentation
-- [`assignments/`](./assignments/) — assignment-specific materials and outputs
-- [`workflows/`](./workflows/) — analysis pipeline notes and workflow artifacts
-- [`reference/`](./reference/) — tool inventories and external references
-- [`archive/`](./archive/) — historical/raw content retained for record-keeping
+- [`docs/`](./docs/) — course notes and supporting background topics
+- [`assignments/`](./assignments/) — assignment artifacts grouped by assignment
+- [`workflows/`](./workflows/) — analysis pipeline notes and outputs
+- [`reference/`](./reference/) — tool inventory and external references
+- [`archive/`](./archive/) — historical/raw materials retained for completeness
 
-## Quick links
+## Notes for browsing
 
-- [Assignment index](./assignments/README.md)
-- [Workflow index](./workflows/README.md)
-- [Tools reference](./reference/bioinformatics_tools.md)
-- [Contribution conventions](./CONTRIBUTING.md)
+- Most content appears in paired formats:
+  - `source/` for text/source captures
+  - `exported/` for rendered HTML versions
+- Folder README files provide direct links to key files.
+- Repository organization conventions are documented in [Repository notes](./CONTRIBUTING.md).

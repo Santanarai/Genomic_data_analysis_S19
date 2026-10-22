@@ -1,6 +1,6 @@
 # Docs
 
-Course notes and explanatory topic materials.
+Course notes and supporting topic summaries for readers exploring methods used in this portfolio.
 
 ## Structure
 - `course_notes/source/` — text/source notebook exports

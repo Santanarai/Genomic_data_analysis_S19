@@ -1,11 +1,13 @@
-# Contributing
+# Repository Notes
 
-## Repository organization rules
+This repository is maintained as an archive/portfolio, not an active team development project.
 
-- Use lowercase, underscore-separated file names.
-- Avoid spaces and parentheses in file and folder names.
-- Place assignment materials in `assignments/<assignment_name>/`.
-- Separate editable/source artifacts from rendered exports:
+## Organization conventions
+
+- Use lowercase, underscore-separated file and folder names.
+- Avoid spaces and parentheses in names.
+- Keep assignment materials in `assignments/<assignment_name>/`.
+- Keep paired artifacts separated:
   - `source/` for text/source files
-  - `exported/` for HTML or rendered outputs
-- Add or update the relevant folder README when introducing a new content type.
+  - `exported/` for rendered HTML files
+- Keep folder README files up to date when content is reorganized.

@@ -1,3 +1,3 @@
 # Archive
 
-Historical or raw artifacts that are retained but not part of the active organized structure.
+Historical or raw materials retained for completeness but not central to the primary portfolio navigation.
