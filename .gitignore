@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors/IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python/Jupyter artifacts
+__pycache__/
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
